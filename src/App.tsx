@@ -87,21 +87,21 @@ import {
 // Placeholder cho lúc đang loading từ Firestore
 const EMPTY_COMMUNE_ENTRY = {
   b1: {
-    total: 30,
-    dn_total: 30,
-    hkd_total: 0,
-    htx_total: 0,
-    dn_cds: 30,
-    hkd_cds: 0,
-    htx_cds: 0,
+    total: 177,
+    dn_total: 154,
+    hkd_total: 11,
+    htx_total: 12,
+    dn_cds: 154,
+    hkd_cds: 11,
+    htx_cds: 12,
   },
   b2: {
-    total: 0,
-    ocop_total: 0,
-    ocop_3: 0,
+    total: 27,
+    ocop_total: 9,
+    ocop_3: 9,
     ocop_4: 0,
     ocop_5: 0,
-    sp_thuong: 0,
+    sp_thuong: 18,
     dv: 0,
   },
 };
@@ -966,7 +966,7 @@ export default function App() {
                   <div className="flex items-center gap-2 mb-5">
                     <Building2 className="h-5 w-5 text-cyan-400" />
                     <span className="text-sm font-bold text-cyan-400 uppercase tracking-wide">
-                      B1: THÔNG TIN ĐƠN VỊ KINH DOANH - XÃ Tào lao
+                      B1: THÔNG TIN ĐƠN VỊ KINH DOANH - XÃ TÂN HIỆP
                     </span>
                   </div>
 
