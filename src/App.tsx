@@ -966,7 +966,7 @@ export default function App() {
                   <div className="flex items-center gap-2 mb-5">
                     <Building2 className="h-5 w-5 text-cyan-400" />
                     <span className="text-sm font-bold text-cyan-400 uppercase tracking-wide">
-                      B1: THÔNG TIN ĐƠN VỊ KINH DOANH - XÃ TÂN HIỆP
+                      B1: THÔNG TIN ĐƠN VỊ KINH DOANH - XÃ Tào lao
                     </span>
                   </div>
 
